@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "oriafeladatok",
+					"name" : "orai",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "oriafeladatok::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-oriafeladatok-Debug-21502450dea2e47e0db8.json",
-					"name" : "oriafeladatok",
+					"id" : "orai::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-orai-Debug-41956b9394205f64c2d5.json",
+					"name" : "orai",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_1/oriafeladatok/cmake-build-debug",
-		"source" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_1/oriafeladatok"
+		"build" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_2/orai/cmake-build-debug",
+		"source" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_2/orai"
 	},
 	"version" : 
 	{

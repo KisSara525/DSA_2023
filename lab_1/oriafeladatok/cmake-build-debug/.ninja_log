@@ -1,15 +1,4 @@
 # ninja log v5
-0	135	1677522423879431775	CMakeFiles/oriafeladatok.dir/main.c.o	263791c9879affd1
-1	123	1677522390885160840	CMakeFiles/oriafeladatok.dir/sources/functions.c.o	de362f7a71fbd3bf
-135	175	1677522423920108652	oriafeladatok	5b3500bb3345494f
-1	145	1677526624686490692	CMakeFiles/oriafeladatok.dir/main.c.o	263791c9879affd1
-1	145	1677526624687309044	CMakeFiles/oriafeladatok.dir/sources/functions.c.o	de362f7a71fbd3bf
-0	131	1677526677980329133	CMakeFiles/oriafeladatok.dir/main.c.o	263791c9879affd1
-1	132	1677526677981028155	CMakeFiles/oriafeladatok.dir/sources/functions.c.o	de362f7a71fbd3bf
-132	170	1677526678020760881	oriafeladatok	5b3500bb3345494f
-1	131	1677526952426296734	CMakeFiles/oriafeladatok.dir/main.c.o	263791c9879affd1
-1	131	1677526952427537492	CMakeFiles/oriafeladatok.dir/sources/functions.c.o	de362f7a71fbd3bf
-132	170	1677526952466926442	oriafeladatok	5b3500bb3345494f
 0	134	1677527249805672220	CMakeFiles/oriafeladatok.dir/main.c.o	263791c9879affd1
 0	134	1677527249807180847	CMakeFiles/oriafeladatok.dir/sources/functions.c.o	de362f7a71fbd3bf
 134	174	1677527249847444398	oriafeladatok	5b3500bb3345494f

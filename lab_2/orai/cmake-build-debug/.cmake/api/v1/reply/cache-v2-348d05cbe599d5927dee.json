@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_1/oriafeladatok/cmake-build-debug"
+			"value" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_2/orai/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -79,7 +79,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "23"
+			"value" : "24"
 		},
 		{
 			"name" : "CMAKE_CACHE_PATCH_VERSION",
@@ -92,6 +92,18 @@
 			],
 			"type" : "INTERNAL",
 			"value" : "2"
+		},
+		{
+			"name" : "CMAKE_COLOR_DIAGNOSTICS",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Enable colored diagnostics throughout."
+				}
+			],
+			"type" : "BOOL",
+			"value" : "ON"
 		},
 		{
 			"name" : "CMAKE_COMMAND",
@@ -362,6 +374,18 @@
 			"value" : ""
 		},
 		{
+			"name" : "CMAKE_FIND_PACKAGE_REDIRECTS_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake."
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_2/orai/cmake-build-debug/CMakeFiles/pkgRedirects"
+		},
+		{
 			"name" : "CMAKE_GENERATOR",
 			"properties" : 
 			[
@@ -419,7 +443,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_1/oriafeladatok"
+			"value" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_2/orai"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -699,7 +723,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "oriafeladatok"
+			"value" : "orai"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -743,7 +767,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.23"
+			"value" : "/Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.24"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
@@ -982,7 +1006,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "oriafeladatok_BINARY_DIR",
+			"name" : "orai_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -991,10 +1015,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_1/oriafeladatok/cmake-build-debug"
+			"value" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_2/orai/cmake-build-debug"
 		},
 		{
-			"name" : "oriafeladatok_IS_TOP_LEVEL",
+			"name" : "orai_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1006,7 +1030,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "oriafeladatok_SOURCE_DIR",
+			"name" : "orai_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1015,7 +1039,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_1/oriafeladatok"
+			"value" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_2/orai"
 		}
 	],
 	"kind" : "cache",
