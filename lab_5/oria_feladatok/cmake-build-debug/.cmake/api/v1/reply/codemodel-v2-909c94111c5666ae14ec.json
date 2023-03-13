@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "oria_feladatok",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "oria_feladatok::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oria_feladatok-Debug-47040a1cfa1b5a930994.json",
+					"name" : "oria_feladatok",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_5/oria_feladatok/cmake-build-debug",
+		"source" : "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_5/oria_feladatok"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
