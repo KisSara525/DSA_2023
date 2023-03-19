@@ -38,10 +38,11 @@ void push(Stack *stack, int item) {
         printf("Error");
         exit(-1);
     }
-    stack->elements[++stack->top] = item;
+    stack->top++;
+    stack->elements[stack->top] = item;
 }
 
-int pop(Stack *stack) {
+int pop(Stack *stack) { //ki kell vegyuk a verem legfelso elememt
     if(isEmpty(*stack)){
         printf("Error");
         return INT_MIN;

@@ -71,7 +71,7 @@ int peek(Stack stack); //csak visszateriti
 */
 int size(Stack stack);
 
-int isOperator(char operator);
+int isOperator(char operators);
 
 int isValidOperand();
 
