@@ -11,6 +11,7 @@ typedef struct {
     int front;
     int rear;
     char **elements;
+
 }Queue;
 
 /**

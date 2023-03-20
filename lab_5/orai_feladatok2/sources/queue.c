@@ -71,6 +71,7 @@ char *dequeue(Queue *queue) { //kivesz az adott sorbol egy erteket
 }
 
 void display(Queue queue) {
+
     //gyakorlatilag egy tomb kiiratas
     printf("The element of the queue:");
     for (int i = queue.front; i <=queue.rear ; ++i) {

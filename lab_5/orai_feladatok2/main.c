@@ -7,6 +7,7 @@ int main() {
     createQueue(5,&queue); //cim szerint adjuk at hogy majd erzekelje a valtozasokat
     while(ok){
         int option;
+
         printf("Choose from the following:"
                "\n\t - 1. isFull?"
                "\n\t - 2. isEmty?"
