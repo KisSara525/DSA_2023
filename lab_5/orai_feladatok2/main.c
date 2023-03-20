@@ -47,5 +47,6 @@ int main() {
     }
 
     dequeue(&queue);
+
     return 0;
 }
