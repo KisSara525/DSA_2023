@@ -16,9 +16,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0eefba71-de0a-4fe4-9e54-0ec354ebbad2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/headers/student.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/sources/student.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +52,8 @@
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "last_opened_file_path": "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_3/orai_feladat"
+    "last_opened_file_path": "/Users/sarakis/Desktop/SAPIENTIA/ORAK/II felev/DSA_2023/lab_3/orai_feladat",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -67,6 +66,7 @@
       <updated>1677479666708</updated>
       <workItem from="1677479667941" duration="4621000" />
       <workItem from="1677494005828" duration="20000" />
+      <workItem from="1679517937861" duration="187000" />
     </task>
     <task id="LOCAL-00001" summary="Lab_3_orai">
       <created>1677483636334</created>
