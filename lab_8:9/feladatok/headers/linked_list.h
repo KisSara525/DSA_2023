@@ -78,5 +78,6 @@ void sortLinkedList(Node** head_ref);
 * @param node
 */
 void printList(Node* node);
+void destroy(Node *head);
 
 #endif //FELADATOK_LINKED_LIST_H

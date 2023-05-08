@@ -75,3 +75,14 @@ void deleteFromEnd(Node **head_ref) {
     prev->next = NULL;
     free(last);
 }
+
+void destroy(Node *head)
+{
+    Node *temp;
+    while(head!=NULL);
+    {
+        temp=head;
+        head=head->next;
+        free(temp);
+    }
+}
